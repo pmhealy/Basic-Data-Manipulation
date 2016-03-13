@@ -1,4 +1,4 @@
-"","company","Product_Code","Product_Number","Full Address","address","city","country","name","Product_Category","company_philips","company_akzo","company_vanhouten","company_unilever","product_smartphone","product_tv","product_laptop","product_tablet"
+"","company","Product_Code","Product_Number","Full Address","address","city","country","name","Product_Category","company_akzo","company_philips","company_unilever","company_van_houten","product_laptop","product_smartphone","product_tablet","product_tv"
 "1","philips","p","5","Groningensingel 147,arnhem,the netherlands","Groningensingel 147","arnhem","the netherlands","dhr p. jansen","Smartphone",0,1,0,0,0,1,0,0
 "2","philips","p","43","Groningensingel 148,arnhem,the netherlands","Groningensingel 148","arnhem","the netherlands","dhr p. hansen","Smartphone",0,1,0,0,0,1,0,0
 "3","philips","x","3","Groningensingel 149,arnhem,the netherlands","Groningensingel 149","arnhem","the netherlands","dhr j. Gansen","Laptop",0,1,0,0,1,0,0,0
@@ -15,11 +15,11 @@
 "14","philips","p","56","Delfzijlstraat 54,arnhem,the netherlands","Delfzijlstraat 54","arnhem","the netherlands","mevr l.  mokken","Smartphone",0,1,0,0,0,1,0,0
 "15","philips","v","67","Delfzijlstraat 55,arnhem,the netherlands","Delfzijlstraat 55","arnhem","the netherlands","mevr l.  mokken","TV",0,1,0,0,0,0,0,1
 "16","philips","v","21","Delfzijlstraat 56,arnhem,the netherlands","Delfzijlstraat 56","arnhem","the netherlands","mevr l.  mokken","TV",0,1,0,0,0,0,0,1
-"17","vanhouten","x","45","Delfzijlstraat 57,arnhem,the netherlands","Delfzijlstraat 57","arnhem","the netherlands","mevr l.  sokken","Laptop",0,0,0,1,1,0,0,0
-"18","vanhouten","v","56","Delfzijlstraat 58,arnhem,the netherlands","Delfzijlstraat 58","arnhem","the netherlands","mevr l.  wokken","TV",0,0,0,1,0,0,0,1
-"19","vanhouten","v","65","Delfzijlstraat 59,arnhem,the netherlands","Delfzijlstraat 59","arnhem","the netherlands","mevr l.  kokken","TV",0,0,0,1,0,0,0,1
-"20","vanhouten","x","21","Delfzijlstraat 60,arnhem,the netherlands","Delfzijlstraat 60","arnhem","the netherlands","mevr l.  Bokken","Laptop",0,0,0,1,1,0,0,0
-"21","vanhouten","p","23","Delfzijlstraat 61,arnhem,the netherlands","Delfzijlstraat 61","arnhem","the netherlands","mevr l.  dokken","Smartphone",0,0,0,1,0,1,0,0
+"17","van houten","x","45","Delfzijlstraat 57,arnhem,the netherlands","Delfzijlstraat 57","arnhem","the netherlands","mevr l.  sokken","Laptop",0,0,0,1,1,0,0,0
+"18","van houten","v","56","Delfzijlstraat 58,arnhem,the netherlands","Delfzijlstraat 58","arnhem","the netherlands","mevr l.  wokken","TV",0,0,0,1,0,0,0,1
+"19","van houten","v","65","Delfzijlstraat 59,arnhem,the netherlands","Delfzijlstraat 59","arnhem","the netherlands","mevr l.  kokken","TV",0,0,0,1,0,0,0,1
+"20","van houten","x","21","Delfzijlstraat 60,arnhem,the netherlands","Delfzijlstraat 60","arnhem","the netherlands","mevr l.  Bokken","Laptop",0,0,0,1,1,0,0,0
+"21","van houten","p","23","Delfzijlstraat 61,arnhem,the netherlands","Delfzijlstraat 61","arnhem","the netherlands","mevr l.  dokken","Smartphone",0,0,0,1,0,1,0,0
 "22","unilever","x","3","Jourestraat 23,arnhem,the netherlands","Jourestraat 23","arnhem","the netherlands","mevr l.  gokken","Laptop",0,0,1,0,1,0,0,0
 "23","unilever","q","4","Jourestraat 24,arnhem,the netherlands","Jourestraat 24","arnhem","the netherlands","mevr l.  stokken","Tablet",0,0,1,0,0,0,1,0
 "24","unilever","q","6","Jourestraat 25,arnhem,the netherlands","Jourestraat 25","arnhem","the netherlands","mevr l.  rokken","Tablet",0,0,1,0,0,0,1,0
